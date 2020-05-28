@@ -1,0 +1,11 @@
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo.deps.json
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo.runtimeconfig.json
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo.runtimeconfig.dev.json
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo.dll
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/bin/Debug/netcoreapp3.0/GuessingGamePtTwo.pdb
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/obj/Debug/netcoreapp3.0/GuessingGamePtTwo.csprojAssemblyReference.cache
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/obj/Debug/netcoreapp3.0/GuessingGamePtTwo.AssemblyInfoInputs.cache
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/obj/Debug/netcoreapp3.0/GuessingGamePtTwo.AssemblyInfo.cs
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/obj/Debug/netcoreapp3.0/GuessingGamePtTwo.dll
+/Users/markmccann/workspace/csharp/GuessingGamePtTwo/obj/Debug/netcoreapp3.0/GuessingGamePtTwo.pdb
